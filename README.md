@@ -1,4 +1,3 @@
-Alright Raghav — here’s your **complete `README.md`** with the environment variables section safely updated so no sensitive data is leaked.
 
 ---
 
